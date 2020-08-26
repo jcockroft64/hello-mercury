@@ -1,5 +1,5 @@
 #intial comments of hello-mercury.py
-
+#the earth is flat
 planets = {
   1: 'mercury',
   2: 'venus',
