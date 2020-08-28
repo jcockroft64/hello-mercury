@@ -1,5 +1,5 @@
 #intial comments of hello-mercury.py
-#the earth is round
+#the earth is roundish
 
 planets = {
   1: 'mercury',
